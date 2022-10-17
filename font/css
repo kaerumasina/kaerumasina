@@ -1,3 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
 @font-face 
 body {
     font-family: 'vers1regular';
