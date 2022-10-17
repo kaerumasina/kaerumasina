@@ -1,8 +1,0 @@
-@font-face {
-    font-family: 'vers1regular';
-    src: url('vers1-regular.woff2') format('woff2'),
-         url('vers1-regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
