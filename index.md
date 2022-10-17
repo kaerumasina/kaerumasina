@@ -1,3 +1,8 @@
+    ```scss
+    ---
+    ---
+
+    @import "{{#specimen_stylesheet.css}}";
 ---
 layout: default
 ---
