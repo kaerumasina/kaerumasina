@@ -2,7 +2,7 @@
     ---
     ---
 
-    @import "{{#specimen_stylesheet.css}}";
+    @import "{{kaerumasina/kaerumasina.github.io/font/kaerumasina/assets/css/specimen_stylesheet.css}}";
 ---
 layout: default
 ---
