@@ -2,7 +2,8 @@
     ---
     ---
 
-    @import "{{ site.theme }}";
+    @import {specimen_stylesheet.css
+    }
 ---
 layout: default
 ---

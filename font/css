@@ -1,13 +1,12 @@
+css
 ---
 ---
-
-@import "{{ site.theme }}";
+body {@import "{{ site.theme }}";
 @font-face 
 body {
-    font-family: 'vers1regular';
-    src: url('vers1-regular.woff2') format('woff2'),
+    font_family: {'vers: 1regular;'}
+    src: url('vers1-regular.tff') format('tff'),
          url('vers1-regular.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
-
+    font-style: normal;}
 }
